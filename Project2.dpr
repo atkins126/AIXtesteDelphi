@@ -2,8 +2,8 @@ program Project2;
 
 uses
   Vcl.Forms,
-  AIXteste in '..\AIXteste.pas' {Form1},
-  DM_Principal in '..\DM_Principal.pas' {DataModule1: TDataModule};
+  AIXteste in 'AIXteste.pas' {Form1},
+  DM_Principal in 'DM_Principal.pas' {DataModule1: TDataModule};
 
 {$R *.res}
 
